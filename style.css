@@ -1,6 +1,6 @@
 body {
   background-color: lightblue;
-  font-family: sans-serif;
+  font-family:'Poppins', sans-serif; /* This is the new line */
 }
 
 h1 {
