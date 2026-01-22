@@ -1,6 +1,12 @@
 body {
-  background-color: lightblue;
-  font-family:'Poppins', sans-serif; /* This is the new line */
+  /* We use the exact filename you uploaded 👇 */
+  background-image: url('beekay-GCVc7KSS_9U-unsplash.jpg');
+  
+  background-size: cover;
+  background-position: center;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+   /* This is the new line */
 }
 
 h1 {
