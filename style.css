@@ -33,3 +33,7 @@ h1 {
 .btn:hover {
   background-color: black;
 }
+.footer {
+  text-align: center;
+  margin-top: 40px; /* specific space above the button */
+}
