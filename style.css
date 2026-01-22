@@ -19,3 +19,17 @@ h1 {
   width: 100%;
   border-radius: 10px;
 }
+.btn {
+  display: inline-block;
+  background-color: navy;
+  color: white;
+  text-decoration: none; /* Removes the underline */
+  padding: 10px 20px;    /* Adds space inside the button */
+  border-radius: 5px;    /* Rounds the corners */
+  margin-top: 15px;
+}
+
+/* This changes the color when you hover over it! */
+.btn:hover {
+  background-color: black;
+}
